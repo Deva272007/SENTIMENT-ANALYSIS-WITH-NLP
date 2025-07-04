@@ -81,6 +81,8 @@ The notebook successfully demonstrates a complete pipeline for sentiment analysi
 
 *OUTPUT*=
 
+![Image](https://github.com/user-attachments/assets/73b19d8c-7930-4d9e-85d7-da2e381737f2)
+
 
 
 
